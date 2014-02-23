@@ -1,7 +1,7 @@
 {
   "name": "meteor-flipclockjs",
   "description": "flipclockjs for meteor",
-  "homepage": "",
+  "homepage": "https://github.com/janpo/meteor-flipclockjs",
   "author": "Janpo janpo.pan@gmail.com",
   "version": "0.0.1",
   "git": "https://github.com/janpo/meteor-flipclockjs.git",
